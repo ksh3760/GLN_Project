@@ -1,0 +1,50 @@
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+
+    font-weight: bold;
+    text-align: center;
+    padding-top:10px ;
+    color: white;
+    
+}
+  
+#gBtn {
+    margin-top: 10%;
+}
+
+#loNumBox {
+    background-color: #ccf2ff;
+}
+
+#plus_icon {
+    /* display: inline-block; */
+    /* margin: 20px; */
+}
+
+#loNum1 {
+    background-color: #ffad33;
+}
+#loNum2 {
+    background-color: #ffdb99;
+}
+#loNum3 {
+    background-color: #99ccff;
+}
+#loNum4 {
+    background-color: #99ff99;
+}
+#loNum5 {
+    background-color: #9999ff;
+}
+#loNum6 {
+    background-color: #d499ff;
+}
+#loNum7 {
+    background-color: #ff99ff;
+}
+
